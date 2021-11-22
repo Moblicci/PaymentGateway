@@ -1,0 +1,15 @@
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\bin\Debug\net5.0\Data.dll
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\bin\Debug\net5.0\Domain.dll
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\bin\Debug\net5.0\Domain.pdb
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\Data.dll
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\gabriel.moblicci\checkout\paymentGateway\Infrastructure\Data\obj\Debug\net5.0\Data.pdb
