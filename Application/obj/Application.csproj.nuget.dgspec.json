@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj": {}
+    "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj": {
+    "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj",
+        "projectPath": "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\gabriel.moblicci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\obj\\",
+        "outputPath": "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -35,8 +35,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj"
+              "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj": {
+    "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\gabriel.moblicci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

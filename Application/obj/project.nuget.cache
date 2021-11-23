@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LoXZgHGgtMnHaeaEEWSi87ojRAdAwSLtKebXJvzrHDHnfj/32w3q4/nLjhWiLOL0d6k7F7f3Fv1fOnVyBFTKLQ==",
+  "dgSpecHash": "shOY3oanjM3MDB+p/bJNsLBk2MpWUD3Dg8oxVXQ0wwozLq6Prp3/pLoZVgsllfCpXVBlav/bmecFezaNuIFlFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj",
+  "projectFilePath": "c:\\Users\\gabriel.moblicci\\checkout\\paymentGateway\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

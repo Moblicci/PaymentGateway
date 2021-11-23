@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Infrastructure\Data\Data.csproj", "{13D5A7E4-23D0-42B1-998F-001F8E10359C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTests", "DomainTests\DomainTests.csproj", "{48282707-2764-43B8-9130-E1EC002411CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -76,6 +78,18 @@ Global
 		{13D5A7E4-23D0-42B1-998F-001F8E10359C}.Release|x64.Build.0 = Release|Any CPU
 		{13D5A7E4-23D0-42B1-998F-001F8E10359C}.Release|x86.ActiveCfg = Release|Any CPU
 		{13D5A7E4-23D0-42B1-998F-001F8E10359C}.Release|x86.Build.0 = Release|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Debug|x64.Build.0 = Debug|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Debug|x86.Build.0 = Debug|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Release|x64.ActiveCfg = Release|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Release|x64.Build.0 = Release|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Release|x86.ActiveCfg = Release|Any CPU
+		{48282707-2764-43B8-9130-E1EC002411CA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EDEB8AAF-61C7-4C8D-9EAC-26E16BBA8FA5} = {B0F9430B-468C-47F6-ACA9-1562F2AEF790}
